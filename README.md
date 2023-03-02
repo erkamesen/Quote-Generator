@@ -17,8 +17,14 @@ pip install Flask-SQLAlchemy
 
 ## Usage
 Follow these steps:
-- Clone the repository: git clone https://github.com/erkamesen/quote-generator.git
-- Navigate to the directory: cd quote-generator
+- Clone the repository: 
+```
+git clone https://github.com/erkamesen/quote-generator.git
+```
+- Navigate to the directory: 
+```
+cd quote-generator
+```
 - Run the application:
 ```
 flask run
