@@ -29,7 +29,7 @@ cd quote-generator
 ```
 flask run
 ```
-
+Quote-Generator now running on your localhost: http://127.0.0.1:5000
 
 
 ## Quote API
